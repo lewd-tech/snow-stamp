@@ -2,6 +2,10 @@
 
 Here are the latest changes to the site. View the [commit log](https://github.com/vegeta897/snow-stamp/commits/main) for a full list of changes.
 
+## 2026-06-15
+
+- 📝 Updated instructions to enable Developer Mode in Discord
+
 ## 2026-02-19
 
 - 🕶️ Removed custom text selection colors because they were chosen poorly in dark mode and [bad practice for accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::selection#accessibility) (thanks Tahmid!)
