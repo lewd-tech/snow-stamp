@@ -28,11 +28,11 @@
 		>
 	</p>
 	<p style="line-height: 1.5em;">
-		Thank you to my sponsors:<br>
-		Timothy Williams<br>
-		<a href="https://github.com/sponsors/vegeta897"
-			><span style="text-decoration: none">&nbsp;💙</span> Donate</a
-		> to get your name here too!
+		Thank you to my sponsors:<br />
+		Timothy Williams<br />
+		<a href="https://github.com/sponsors/vegeta897">
+			<span style="text-decoration: none">&nbsp;💙</span> Donate
+		</a> to get your name here too!
 	</p>
 	<p class="disclaimer">Not affiliated with Discord, Inc</p>
 </div>
