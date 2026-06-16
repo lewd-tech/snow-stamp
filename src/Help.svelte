@@ -12,16 +12,15 @@
 	</p>
 	<p>
 		On <em>desktop</em>, click the ⚙ button next to your name and look in the
-		<em>Advanced</em>
+		<em>Developer</em>
 		tab.<br />Then you can right click on any message, user, or server and
 		choose <em>Copy ID</em> in the menu.
 	</p>
 	<p>
-		On <em>mobile</em>, tap on your avatar in the bottom right and look in the
-		<em>Appearance</em>
-		tab.<br />Then you can long-press on any message or server and choose
-		<em>Copy ID</em> in the menu. For users, tap the
-		<span class="button" /> button in their profile.
+		On <em>mobile</em>, open your profile and tap the ⚙ button in the top right,
+		and look in the <em>Advanced</em> tab.<br />Then you can long-press on any
+		message or server and choose <em>Copy ID</em> in the menu. For users, tap
+		the <span class="button" /> button in their profile.
 	</p>
 	<p>
 		Paste the snowflake into the box below to check the age of a Discord account
